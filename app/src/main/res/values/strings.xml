@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="default_name">Imię</string>
+    <string name="default_surname">Nazwisko</string>
+    <string name="default_Date">Data urodzenia (dd/mm/rrrr)</string>
+    <string name="default_number">_ _ _ _ _ _ _ _ _</string>
+
+    <string name="default_title">Imię Nazwisko</string>
+    <string name="selected_contact">"Wybrano "</string>
+
+    <string name="delete_question">Czy napewno chcesz usunąć ten kontakt?</string>
+    <string name="dialog_confirm">Usuń</string>
+    <string name="dialog_cancel">Cofnij</string>
+    <string name="delete_msg">Usuwanie</string>
+    <string name="retry_msg">Powtórz żądanie</string>
+    <string name="long_click_msg">Czy nawiązać połączenie?</string>
+    <string name="dialog_tag">dialog_tag</string>
+    <string name="ringing">Nawiązywanie połączenia</string>
+    <string name="ringing_cancel_msg">Wybór połączenia anulowany</string>
+    <string name="ring">Zadzwoń</string>
+    <string name="dialog_cancel_2">Anuluj</string>
+</resources>
